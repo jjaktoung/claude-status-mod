@@ -1,0 +1,2 @@
+# Claude Code가 mod를 로드할 때 자동으로 만드는 타입 선언
+.claude-plugin/types/

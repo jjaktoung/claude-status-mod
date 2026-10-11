@@ -1,0 +1,9 @@
+{
+  "name": "statusline",
+  "version": "0.1.0",
+  "description": "Model, effort, permission mode, git, path, cost, and gradient bars for context and the 5H/7D limits above the prompt",
+  "author": {
+    "name": "jjaktoung"
+  },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "claude-status-mod",
+  "description": "Claude Code status band mod: model, effort, permission mode, git, cost, and usage bars",
+  "owner": {
+    "name": "jjaktoung"
+  },
+  "plugins": [
+    {
+      "name": "statusline",
+      "source": "./"
+    }
+  ]
+}
